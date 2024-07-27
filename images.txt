@@ -1,2 +1,2 @@
 #rabbitmq
-rabbitmq
+arm32v7/rabbitmq:3-management
