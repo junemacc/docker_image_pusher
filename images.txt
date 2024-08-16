@@ -1,4 +1,5 @@
 #rabbitmq
 #rabbitmq
 #arm32v7/rabbitmq:3-management
-redis:6.2.1
+#redis:6.2.1
+yisier1/nps
