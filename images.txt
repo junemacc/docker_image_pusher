@@ -3,4 +3,8 @@
 #arm32v7/rabbitmq:3-management
 #redis:6.2.1
 #yisier1/nps
-docker.io/pig4cloud/java:8-jre
+#docker.io/pig4cloud/java:8-jre
+elasticsearch
+kibana
+logstash
+filebeat
