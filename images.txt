@@ -4,8 +4,8 @@
 #redis:6.2.1
 #yisier1/nps
 #docker.io/pig4cloud/java:8-jre
-elasticsearch:8.0.0
-kibana:8.0.0
-logstash:8.0.0
-filebeat:8.0.0
+#elasticsearch:8.0.0
+#kibana:8.0.0
+#logstash:8.0.0
+#filebeat:8.0.0
 minio
