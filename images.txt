@@ -1,11 +1,11 @@
 #rabbitmq
 #rabbitmq
 #arm32v7/rabbitmq:3-management
-#redis:6.2.1
+redis:6.2.1
 #yisier1/nps
 #docker.io/pig4cloud/java:8-jre
 #elasticsearch:8.7.1
 #kibana:8.7.1
 #logstash:8.7.1
 #filebeat:8.7.1
-minio/minio
+#minio/minio
