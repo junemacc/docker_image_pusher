@@ -36,5 +36,6 @@
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 #python:3.9-slim-buster
-langgenius/dify-api:0.15.3
-langgenius/dify-web:0.15.3
+#langgenius/dify-api:0.15.3
+#langgenius/dify-web:0.15.3
+wurstmeister/zookeeper
