@@ -38,4 +38,5 @@
 #python:3.9-slim-buster
 #langgenius/dify-api:0.15.3
 #langgenius/dify-web:0.15.3
-wurstmeister/zookeeper
+#wurstmeister/zookeeper
+wurstmeister/kafka
