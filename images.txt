@@ -40,4 +40,5 @@
 #langgenius/dify-web:0.15.3
 #wurstmeister/zookeeper
 #wurstmeister/kafka
-postgres:15.8
+#postgres:15.8
+goharbor/prepare:v2.12.2
