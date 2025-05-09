@@ -17,7 +17,7 @@
 #langgenius/dify-sandbox:0.2.10
 #ubuntu/squid:latest
 #certbot/certbot
-#nginx:latest
+nginx:latest
 #pingcap/tidb:v8.4.0
 #semitechnologies/weaviate:1.19.0
 #langgenius/qdrant:v1.7.3
