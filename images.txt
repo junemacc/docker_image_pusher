@@ -1,8 +1,2 @@
 nginx:latest
-nacos:2.1.2
-mysql:8.0
-redis:5.0
-mongodb:8.0.3
-rocketmq:5.0
-rabbitmq:latest
-elasticsearch:7.14
+
