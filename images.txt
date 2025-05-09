@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:7.14.0
+rabbitmq:3.12-management
